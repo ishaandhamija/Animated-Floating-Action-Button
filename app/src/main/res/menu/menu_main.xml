@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/text"
+    android:icon="@drawable/ic_action_text"
+    android:title="text"
+    />
+    <item
+        android:id="@+id/camera"
+        android:icon="@drawable/ic_action_camera"
+        android:title="image to pdf"
+        />
+    <item
+        android:id="@+id/cc"
+        android:icon="@drawable/ic_action_cc"
+        android:title="image to text"
+        />
+
+</menu>
